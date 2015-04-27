@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "1.2-rc2"
   s.summary      = "A short description of PLCrashReporter."
   s.homepage     = "https://github.com/plausiblelabs/plcrashreporter"
-  s.author       = { "<赵东广>" => "<dongguang.zhao@renren-inc.com>" }
+  s.author       = { "<zhaodg>" => "<zhaodg.single@gmail.com>" }
   s.source       = { :git => "https://github.com/plausiblelabs/plcrashreporter.git", :tag => "1.2-rc2" }
   s.license      = 'MIT (example)'
 
